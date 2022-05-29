@@ -4,7 +4,7 @@
 # Qss Comments
 A tool to add comments to your screenshot.
 
-[Demo](https://soft-squirrel-12700b.netlify.app/)
+[Demo](https://qss-comments.netlify.app/)
 
 # Getting Started
 
